@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://suritam.co.kr/</loc></url>
-  <url><loc>https://suritam.co.kr/bollard/</loc></url>
-  <url><loc>https://suritam.co.kr/bollard/dongtan/</loc></url>
-  <url><loc>https://suritam.co.kr/entrance/</loc></url>
-  <url><loc>https://suritam.co.kr/entrance/pyeongtaek/</loc></url>
-  <url><loc>https://suritam.co.kr/hood/</loc></url>
-  <url><loc>https://suritam.co.kr/hood/paju/</loc></url>
+  <url><loc>https://suritam.co.kr/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://suritam.co.kr/bollard/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://suritam.co.kr/bollard/dongtan/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://suritam.co.kr/entrance/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://suritam.co.kr/entrance/pyeongtaek/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://suritam.co.kr/hood/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://suritam.co.kr/hood/paju/</loc><lastmod>2026-11-09</lastmod></url>
 </urlset>
