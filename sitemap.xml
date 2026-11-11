@@ -7,6 +7,7 @@
   <url><loc>https://suritam.co.kr/bollard/gwanak/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/bollard/pyeongtaek/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/bollard/pyeongtaek-2/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://suritam.co.kr/bollard/pyeongtaek-5/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://suritam.co.kr/bollard/siheung/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/bollard/yangcheon/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/bollard/yongsan/</loc><lastmod>2026-11-09</lastmod></url>
@@ -24,7 +25,11 @@
   <url><loc>https://suritam.co.kr/cabinet/seongdong/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/cooktop/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://suritam.co.kr/cooktop/bucheon/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://suritam.co.kr/cooktop/cheonan/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://suritam.co.kr/cooktop/cheonan-2/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://suritam.co.kr/cooktop/mapo/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://suritam.co.kr/cooktop/michuhol/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://suritam.co.kr/cooktop/namyangju/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://suritam.co.kr/cooktop/namyangju-2/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/countertop/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/countertop/cheonan/</loc><lastmod>2026-11-09</lastmod></url>
@@ -32,9 +37,11 @@
   <url><loc>https://suritam.co.kr/countertop/gimpo/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/countertop/hanam-2/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/countertop/hanam-3/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://suritam.co.kr/countertop/jongno/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://suritam.co.kr/dishwasher/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/dishwasher/gangdong/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/dishwasher/guri/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://suritam.co.kr/dishwasher/gwangju/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://suritam.co.kr/dishwasher/seongnam/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/entrance/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/entrance/anyang/</loc><lastmod>2026-11-09</lastmod></url>
@@ -63,9 +70,11 @@
   <url><loc>https://suritam.co.kr/hood/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/hood/anyang/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/hood/gwanak/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://suritam.co.kr/hood/icheon/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://suritam.co.kr/hood/namyangju/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/hood/paju/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/hood/yangpyeong/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://suritam.co.kr/hood/yongsan/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://suritam.co.kr/maintenance/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/maintenance/hanam/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/maintenance/hwaseong/</loc><lastmod>2026-11-09</lastmod></url>
@@ -77,6 +86,7 @@
   <url><loc>https://suritam.co.kr/mirror/michuhol/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/mirror/seocho/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/mirror/siheung/</loc><lastmod>2026-11-11</lastmod></url>
+  <url><loc>https://suritam.co.kr/mirror/songpa/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://suritam.co.kr/pipe/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/pipe/bucheon/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/pipe/giheung/</loc><lastmod>2026-11-09</lastmod></url>
@@ -87,6 +97,7 @@
   <url><loc>https://suritam.co.kr/repair/gangseo/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/repair/giheung/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/repair/gimpo/</loc><lastmod>2026-11-09</lastmod></url>
+  <url><loc>https://suritam.co.kr/repair/gimpo-2/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://suritam.co.kr/repair/gunpo/</loc><lastmod>2026-11-09</lastmod></url>
   <url><loc>https://suritam.co.kr/repair/gunpo-2/</loc><lastmod>2026-11-11</lastmod></url>
   <url><loc>https://suritam.co.kr/repair/michuhol/</loc><lastmod>2026-11-09</lastmod></url>
